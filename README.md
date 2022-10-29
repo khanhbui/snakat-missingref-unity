@@ -1,0 +1,1 @@
+# snakat-requiredattribute-unity
